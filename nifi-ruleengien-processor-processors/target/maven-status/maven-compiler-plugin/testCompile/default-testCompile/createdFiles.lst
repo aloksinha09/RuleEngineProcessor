@@ -1,0 +1,5 @@
+com\matrixbi\nifi\processor\tests\RuleEngienTest.class
+com\matrixbi\nifi\processor\tests\TestUtils.class
+com\matrixbi\nifi\processor\tests\BusinessObjectJsonTest.class
+com\matrixbi\nifi\processor\tests\Person.class
+com\matrixbi\nifi\processor\tests\RuleEngienProcessorTest.class
